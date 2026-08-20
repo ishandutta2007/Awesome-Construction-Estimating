@@ -42,45 +42,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[STACK](https://www.stackct.com/)** | Cloud-based construction takeoff and estimating platform focused on digital plan takeoff, estimating, bid preparation, and collaboration. | Starts at **$249/user/month** (approx. $2,199–$2,999/user/year billed annually) for paid plans. | **Free Forever Tier**: 2 concurrent active projects, max 10 takeoff measurements per project, 7-day project access window, and no advanced data export/auto-count. *(Also offers a 14-day free trial for the Build & Operate module).* |
+| **[PlanSwift](https://www.planswift.com/)** | Desktop construction takeoff and estimating software for converting digital plans into measurable quantities, assemblies, material takeoffs, and estimates across many construction trades. | Starts at **$1,749/year** (annual subscription license including initial 2-hour training and ongoing maintenance/support). | **14-Day Free Trial**: Full-featured desktop software access without requiring a credit card to evaluate takeoff and estimating workflows. |
+| **[Buildxact](https://www.buildxact.com/)** | Cloud-based estimating and construction-management platform for builders and remodelers with digital takeoff, estimating, quoting, job costing, and project-management capabilities. | Starts at **$199/month** (or **$169/month** billed annually on a 12-month contract) for the Foundation plan with unlimited users. | **Free Forever Tier ("Go Plan")**: $0/month includes 5 complimentary AI credits for estimating, proposals, and Home Depot material ordering. *(Also offers a 14-day free trial of paid tiers).* |
+| **[ProEst](https://proest.com/)** | Cloud construction estimating platform supporting quantity takeoff, cost databases, assemblies, bid preparation, reporting, and integration with Autodesk Construction Cloud workflows. | Starts at **~$5,000/year** (annual enterprise subscription based on organization size and Autodesk Construction Cloud modules). | **No Self-Service Free Plan**: Evaluation is provided via customized one-on-one live product demonstrations and enterprise pilot access through sales representatives. |
+| **[Clear Estimates](https://www.clearestimates.com/)** | Residential construction estimating platform providing pre-built cost databases, project estimates, pricing, and proposal generation. | Starts at **$59/month** (billed annually) or **$79/month** (billed monthly) for the Standard Plan (additional users at $9/user/month). | **30-Day Free Trial**: 30 days of unrestricted access including unlimited estimates, quarterly-updated localized cost databases (400+ regions), and proposal templates. |
+| **[Estimator360](https://www.estimator360.com/)** | Construction estimating and takeoff platform focused on quantity measurement, estimating, assemblies, pricing, proposals, and project workflows. | Starts at **$339/month** for the Pro plan (1 Estimator with unlimited team members, subcontractor, and supplier accounts). | **21-Day Free Trial**: 21 days of full platform access with all features enabled, no credit card required, and full customer support included. |
+| **[CostX](https://www.exactal.com/)** | Construction estimating and quantity-surveying platform from Exactal / RIB Software supporting 2D/3D/BIM takeoff, estimating, cost planning, and reporting. | Starts at **~$4,500** for entry-level standalone licensing (or student educational license at **$15.99/year**); commercial packages (Core, Quantify, Complete) are quote-based. | **No Public Self-Service Trial**: Evaluation is provided via personalized vendor demonstrations and guided project-specific evaluation licenses upon request via RIB sales. |
+| **[Bluebeam](https://www.bluebeam.com/)** | PDF-based construction documentation and measurement platform widely used for digital takeoff, markup, measurement, drawing comparison, and collaboration. | Starts at **$260/user/year** (Basics plan; Core plan at **$330/user/year**, Complete plan at **$440/user/year**, billed annually). | **14-Day Free Trial**: 14 days of full-featured access to the Complete/Max tier across desktop (Revu), web, and mobile including Studio collaboration and Dynamic Fill. |
+| **[Trimble Quest](https://www.trimble.com/)** | Trimble construction estimating and preconstruction technology ecosystem supporting estimating, takeoff, cost management, and civil construction workflows. | Starts at **$999/user/year** for single-user annual licenses (multi-user team plans starting at **$1,499/year**). | **30-Day Free Trial**: 30 days of full access to cloud cost estimating, collaborative rate breakdown, and takeoff features upon registration. |
+| **[Buildertrend](https://buildertrend.com/)** | Cloud construction-management platform with estimating, proposals, budgets, selections, scheduling, customer management, and project financial workflows. | Starts at **$399/month** (Essential plan; promotional intro pricing often at **$199** for the 1st month; Advanced at **$799/month**, Complete at **$1,099/month**). | **No Self-Service Free Trial**: Prospective clients are offered live interactive product demos with solution specialists (supported by onboarding assistance). |
 
-- **[STACK](https://www.stackct.com/)**  
-  Cloud-based construction takeoff and estimating platform focused on digital plan takeoff, estimating, bid preparation, and collaboration.
-
-
-- **[PlanSwift](https://www.planswift.com/)**  
-  Desktop construction takeoff and estimating software for converting digital plans into measurable quantities, assemblies, material takeoffs, and estimates across many construction trades.
-
-
-- **[Buildxact](https://www.buildxact.com/)**  
-  Cloud-based estimating and construction-management platform for builders and remodelers with digital takeoff, estimating, quoting, job costing, and project-management capabilities.
-
-
-- **[ProEst](https://proest.com/)**  
-  Cloud construction estimating platform supporting quantity takeoff, cost databases, assemblies, bid preparation, reporting, and integration with construction-management workflows.
-
-
-- **[Clear Estimates](https://www.clearestimates.com/)**  
-  Residential construction estimating platform providing pre-built cost databases, project estimates, pricing, and proposal generation.
-
-
-- **[Estimator360](https://www.estimator360.com/)**  
-  Construction estimating and takeoff platform focused on quantity measurement, estimating, assemblies, pricing, proposals, and project workflows.
-
-
-- **[CostX](https://www.exactal.com/)**  
-  Construction estimating and quantity-surveying platform from Exactal supporting 2D/3D/BIM takeoff, estimating, cost planning, and reporting.
-
-
-- **[Bluebeam](https://www.bluebeam.com/)**  
-  PDF-based construction documentation and measurement platform widely used for digital takeoff, markup, measurement, drawing comparison, and collaboration.
-
-
-- **[Trimble Quest](https://www.trimble.com/)**  
-  Trimble construction estimating and preconstruction technology ecosystem supporting estimating, takeoff, cost management, and construction workflows.
-
-
-- **[Buildertrend](https://buildertrend.com/)**  
-  Cloud construction-management platform with estimating, proposals, budgets, selections, scheduling, customer management, and project financial workflows.
 Recommended Open-Source Combinations
 
 Basic Open-Source Estimating
