@@ -111,6 +111,9 @@ Repos are listed in **descending order by GitHub star count**.
 14. **[Bonsai (formerly BlenderBIM)](https://github.com/IfcOpenShell/Bonsai)** [<img src="https://img.shields.io/github/stars/IfcOpenShell/Bonsai?style=social&color=white" alt="GitHub stars" />](https://github.com/IfcOpenShell/Bonsai/stargazers)  
     *Open-source native IFC authoring, 5D cost planning, and quantity takeoff (QTO) suite built on top of Blender and IfcOpenShell.*
 
+15. **[BidWright](https://github.com/braedonsaunders/bidwright)** [<img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=social&color=white" alt="GitHub stars" />](https://github.com/braedonsaunders/bidwright/stargazers)  
+    *AI-native construction estimating platform for intake, takeoff, pricing, scheduling, knowledge, and quotes.*
+
 ---
 
 ## 🧱 Recommended Open-Source Estimating Stacks
