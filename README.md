@@ -38,6 +38,7 @@ Whether you are seeking full-featured commercial estimating platforms, building 
 - [🧱 Recommended Open-Source Estimating Stacks](#-recommended-open-source-estimating-stacks)
 - [📐 Construction Estimating Building Blocks](#-construction-estimating-building-blocks)
 - [💡 Core Construction Estimating Concepts](#-core-construction-estimating-concepts)
+- [📚 Buyer Guides & Comparisons](#-buyer-guides--comparisons)
 - [⭐ Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📜 Disclaimer](#-disclaimer)
@@ -247,6 +248,13 @@ Modern construction tech engineering teams can combine open-source components in
 - **Escalation**: Projecting future material and labor inflation across multi-phase construction timelines.
 
 ---
+
+
+## 📚 Buyer Guides & Comparisons
+
+Independent resources for evaluating construction / field-service platforms (not SaaS products themselves):
+
+- [FieldServiceScout](https://www.fieldservicescout.com/best/hvac-software) — Free, vendor-neutral comparisons of Jobber, Housecall Pro, ServiceTitan peers for trade shops (features + modeled true cost). Not FieldScout/fieldscout.io.
 
 ## ⭐ Star History
 
