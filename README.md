@@ -114,6 +114,9 @@ Repos are listed in **descending order by GitHub star count**.
 15. **[BidWright](https://github.com/braedonsaunders/bidwright)** [<img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=social&color=white" alt="GitHub stars" />](https://github.com/braedonsaunders/bidwright/stargazers)  
     *AI-native construction estimating platform for intake, takeoff, pricing, scheduling, knowledge, and quotes.*
 
+16. **[pdf2takeoff](https://github.com/ajflow/pdf2takeoff)** [<img src="https://img.shields.io/github/stars/ajflow/pdf2takeoff?style=social&color=white" alt="GitHub stars" />](https://github.com/ajflow/pdf2takeoff/stargazers)  
+    *Browser-based, fully client-side PDF quantity takeoff tool (Apache-2.0): OCR scale auto-read, dynamic room area fill, click-to-count symbol scanning, formula quantity columns, CSV/XLSX and annotated-PDF export, a headless CLI + MCP server for AI-agent takeoffs, and published benchmarks with a per-run ledger and CI gates.*
+
 ---
 
 ## 🧱 Recommended Open-Source Estimating Stacks
