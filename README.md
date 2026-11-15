@@ -34,6 +34,7 @@ Whether you are seeking full-featured commercial estimating platforms, building 
 ## 📑 Table of Contents
 
 - [☁️ SaaS & Hosted Estimating Platforms](#️-saashosted-platforms)
+- [🏠 Homeowner Planning Calculators](#-homeowner-planning-calculators)
 - [💻 Open-Source Estimating & BIM Software](#-open-source-estimating--bim-software)
 - [🧱 Recommended Open-Source Estimating Stacks](#-recommended-open-source-estimating-stacks)
 - [📐 Construction Estimating Building Blocks](#-construction-estimating-building-blocks)
@@ -60,6 +61,16 @@ Below is a comparative breakdown of leading commercial SaaS and hosted construct
 | **[Buildxact](https://www.buildxact.com/)** | Intuitive cloud takeoff and estimating software built for custom home builders, residential remodelers, and specialty trade contractors. | **Venture-Backed**<br>• Total Raised: **~$15.00+ Million**<br>• Estimated Valuation: **~$50.00 Million**<br>• Annual Revenue: **~$11.90 Million** | Starts at **$199/month** (or **$169/month** billed annually on a 12-month contract) for the Foundation plan with unlimited users. | **Free Forever Tier ("Go Plan")**: $0/month includes 5 complimentary AI credits for estimating, proposals, and Home Depot material ordering. *(Also offers a 14-day free trial of paid tiers).* |
 | **[Estimator360](https://www.estimator360.com/)** | Cloud-based residential construction estimating platform featuring intelligent assemblies, instant project schedules, and bid proposals. | **Estimator360 LLC**<br>• Private / Unfunded<br>• Estimated Annual Revenue: **~$2.50M–$14.10 Million** | Starts at **$339/month** for the Pro plan (1 Estimator with unlimited team members, subcontractor, and supplier accounts). | **21-Day Free Trial**: 21 days of full platform access with all features enabled, no credit card required, and full customer support included. |
 | **[Clear Estimates](https://www.clearestimates.com/)** | Dedicated residential remodeling estimating tool preloaded with localized RemodelMAX cost databases and custom proposal generators. | **Clear Estimates LLC**<br>• Private / Bootstrapped<br>• Estimated Annual Revenue: **~$2.00M–$5.00 Million** | Starts at **$59/month** (billed annually) or **$79/month** (billed monthly) for the Standard Plan (additional users at $9/user/month). | **30-Day Free Trial**: 30 days of unrestricted access including unlimited estimates, quarterly-updated localized cost databases (400+ regions), and proposal templates. |
+
+---
+
+## 🏠 Homeowner Planning Calculators
+
+Consumer-facing tools for early project planning. These estimates do not replace contractor takeoff, written bids, or engineering review.
+
+| Tool | Planning use | Access | Important limit |
+| :--- | :--- | :--- | :--- |
+| **[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator)** | Estimates U.S. roof replacement cost ranges using roof size, pitch, material, tear-off, location, and scope inputs. | **Free**; no account required for the planning estimate. | Produces a homeowner planning range, not a contractor bid, insurance determination, or structural assessment. |
 
 ---
 
