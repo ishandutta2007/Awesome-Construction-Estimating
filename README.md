@@ -117,6 +117,9 @@ Repos are listed in **descending order by GitHub star count**.
 16. **[pdf2takeoff](https://github.com/ajflow/pdf2takeoff)** [<img src="https://img.shields.io/github/stars/ajflow/pdf2takeoff?style=social&color=white" alt="GitHub stars" />](https://github.com/ajflow/pdf2takeoff/stargazers)  
     *Browser-based, fully client-side PDF quantity takeoff tool (Apache-2.0): OCR scale auto-read, dynamic room area fill, click-to-count symbol scanning, formula quantity columns, CSV/XLSX and annotated-PDF export, a headless CLI + MCP server for AI-agent takeoffs, and published benchmarks with a per-run ledger and CI gates.*
 
+17. **[EstimatorSuite Construction Calculators](https://github.com/estimatorsuite/construction-calculators)** [<img src="https://img.shields.io/github/stars/estimatorsuite/construction-calculators?style=social&color=white" alt="GitHub stars" />](https://github.com/estimatorsuite/construction-calculators/stargazers)  
+    *MIT-licensed React library with 42 construction calculators (concrete, roofing, drywall, HVAC, excavation, landscaping) exposing pure calculation functions with zero UI dependencies — usable in estimating tools, bid sheets, and material takeoff workflows.*
+
 ---
 
 ## 🧱 Recommended Open-Source Estimating Stacks
